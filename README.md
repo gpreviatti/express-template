@@ -7,7 +7,7 @@
 
 ## Utilizacao
 
-- `git clone git@github.com:gpreviatti/express-template.git`
+- `git clone git@github.com:gpreviatti/express-template.git meu-projeto`
 - `npm install`
 - `npm start`
 - enjoy 🎉
